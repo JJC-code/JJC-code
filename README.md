@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m Jacob.<br> 👀 I’m interested in Data Engineering, Blockchain and Python-related issues.<br> 🌱 I’m currently learning Blockchain and Azure Data Factory.<br> 💞️ I’m looking to collaborate on a Data Engineering project.<br> 📫 You can reach me on my socials.
+👋 Hi, I’m Jacob.<br> 👀 I’m interested in Data Engineering, Blockchain and Python-related issues.<br> 🌱 I’m currently learning Blockchain and AWS.<br> 💞️ I’m looking to collaborate on a Data Engineering project.<br> 📫 You can reach me on my socials.
 
 
 ## 🌐 Socials
