@@ -31,13 +31,13 @@ I parachute into high-growth companies, diagnose their data challenges, and buil
 
 ## Recent engagements
 
-**VC-Backed CTV Advertising Platform** · *United States · Under NDA · 2025*
+**VC-Backed CTV Advertising Platform** · *United States · Under NDA*
 Built the real-time analytics platform from scratch. It became the company's single source of truth for executive decision-making. 500M+ daily events. 99.99% uptime. Sub-second latency. Elasticsearch indices for near real-time search with fuzzy matching, relevance tuning, and aggregation pipelines. Automated KPI monitoring catching revenue anomalies before metrics degraded.
 
-**Top-5 UK Non-Profit Organization** · *United Kingdom · Under NDA · 2025*
+**Top-5 UK Non-Profit Organization** · *United Kingdom · Under NDA*
 Managed end-to-end AWS data platform on medallion architecture across a 6-person team. First- and third-party sources streamed through Kinesis Firehose into a unified donor-intelligence layer. Semarchy MDM for golden donor records. Zero-loss legacy CRM → Salesforce migration. Reverse-ETL pipelines pushing enriched data back to CRM, Adobe, and marketing platforms.
 
-**AI-Powered IoT Operations Platform** · *United States · Under NDA · 2024*
+**AI-Powered IoT Operations Platform** · *United States · Under NDA*
 Led the full data migration and analytics modernization from legacy systems to AWS (Glue, S3, Lambda) and Airflow. Grew the data function from 2 to 15 engineers in 12 months while shipping production systems on schedule. 150+ enterprise clients served. Interactive dashboards (T-SQL, Sisense, React) gave clients operational visibility that directly improved retention and upsell.
 
 **DoorDash** · *via Capgemini Engineering · 2023–2026*
